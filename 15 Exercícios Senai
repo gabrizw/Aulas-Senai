@@ -1,7 +1,7 @@
 using static System.Console;
 using static System.Convert;
 
-//Não colocar os códigos juntos para não dar problema
+//Não colocar os códigos juntos para não dar problema e usar "using static System" para ".Console" e ".Convert"
 
 //1 - Verificação de Paridade:
 int ePar(int a)
