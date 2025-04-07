@@ -25,7 +25,7 @@ ePar(numPar);
 
 int filtrarPorIdade(int a)
 {
-    if(a >= 0 & a <= 12)
+    if(a >= 0 && a <= 12)
     {
         WriteLine($"Você é uma criança porque tem {a} anos.");
     }
