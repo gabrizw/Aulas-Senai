@@ -11,7 +11,7 @@ foreach (var item in carrosF1)
 }
 
 
-string novocarro = "Audia";
+string novocarro = "Audi";
 List<string> adnome = new List<string>(carrosF1.ToList());
 adnome.Add(novocarro);
 carrosF1 = adnome.ToArray();
